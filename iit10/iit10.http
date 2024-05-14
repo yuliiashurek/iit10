@@ -1,0 +1,6 @@
+@iit10_HostAddress = http://localhost:5062
+
+GET {{iit10_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

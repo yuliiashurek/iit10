@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\iit10.props" />
+</Project>
